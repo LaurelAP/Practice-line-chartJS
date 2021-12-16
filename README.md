@@ -7,6 +7,8 @@ https://handsondataviz.github.io/chartjs-line/
 
 Sample data by CT Department of Education.
 
+https://laurelap.github.io/Practice-line-chartJS/
+
 ## Create your own
 See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
 
